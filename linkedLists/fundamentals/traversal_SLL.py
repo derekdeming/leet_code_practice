@@ -59,10 +59,10 @@ class LinkedList:
         return True
 # *****************************************************
     def traversal(self): 
-        current = self.head
-        while current: 
+        current = self.head   # O(1)
+        while current:     # O(n)
             print(current.value)
-            current = current.next
+            current = current.next   # O(1)
 
 # *****************************************************
 
@@ -77,5 +77,5 @@ print(new_linked_list)
 new_linked_list.traversal()
 print(new_linked_list)
 
-# Time complexity = O()
-# Space complexity = O()
+# Time complexity = O(n)
+# Space complexity = O(1)
