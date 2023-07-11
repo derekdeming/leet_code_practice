@@ -60,7 +60,7 @@ class LinkedList:
 # *****************************************************
     def traversal(self): 
         current = self.head
-        while current is not None: 
+        while current: 
             print(current.value)
             current = current.next
 
