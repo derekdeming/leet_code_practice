@@ -104,6 +104,8 @@ class LinkedList:
             popped_node.next = None
         self.length -= 1
         return popped_node.value  # O(1)
+# *****************************************************
+    
 
 
 new_linked_list = LinkedList()
