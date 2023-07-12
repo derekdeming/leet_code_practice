@@ -83,6 +83,7 @@ class LinkedList:
         for _ in range(index): # O(n)
             current = current.next
         return current
+# *****************************************************
 
 
 new_linked_list = LinkedList()
