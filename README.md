@@ -3,6 +3,7 @@ You should never lose sight of the fundamentals so using this to play around and
 
 ## Roadmap
 * First derive the dynamic functionalities and methods in basic code
-* Then it will be to practice leetcode... the dreaded pain in every programmers side
+* Then we will do some exercises to apply these derivations/methods
+* Finally we will practice leetcode... the dreaded pain in every programmers side
 
 > Hoping to just use this to hold accountability to myself
